@@ -64,4 +64,3 @@ The packages are available for installation from the repository links listed bel
 * [Python Package Repository](https://github.com/hfboyce/Colourblind8)  
 
 The repository includes methods and implemention examples. 
-
